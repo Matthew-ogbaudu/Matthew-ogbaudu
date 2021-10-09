@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Matthew-ogbaudu
+- 👋 Hi, I’m Matthew Ogbaudu
 - 👀 I’m interested in Web development 
 - I focus More on Backend but i'm currently learning on improving my Front-End.
 - 🌱 I’m currently learning some tutorials on UI/UX, CSS, Javascript
